@@ -26,11 +26,17 @@
 Активируйте окружение и установите Django:
 
 Bash
+
+```bash
 ./.venv/bin/python3 -m pip install django
+```
+
 Запустите локальный сервер:
 
 Bash
+```bash
 ./.venv/bin/python3 manage.py runserver
+```
 После этого проект будет доступен по адресу: http://127.0.0.1:8000/
 
 📝 Итоги
